@@ -14,4 +14,4 @@ Main.java: The runner class that tests the library.
 OOP Concepts Used
 Inheritance: All math classes extend MathOperation to reuse code.
 
-Encapsulation: All data (like radius or number) is private. We use public setter methods to check for errors (like negative numbers) before saving data.
+Encapsulation: All data (like radius or number) is private.
