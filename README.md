@@ -1,4 +1,4 @@
-This is a Java program that performs math calculations using Object-Oriented Programming (OOP). It organizes code into different classes for easier reuse and maintenance.
+This is a Java program that performs math calculations using Object-Oriented Programming (OOP). It organizes code into different classes for easier reuse.
 
 File Structure (Classes)
 MathOperation.java (Parent Class): Holds the shared result variable.
